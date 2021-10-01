@@ -1,0 +1,22 @@
+{
+  "name": "itis-6177-assignment-09",
+  "version": "1.0.0",
+  "description": "",
+  "main": "my-function.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tdinh6/ITIS-6177-Assignment-09.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tdinh6/ITIS-6177-Assignment-09/issues"
+  },
+  "homepage": "https://github.com/tdinh6/ITIS-6177-Assignment-09#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
